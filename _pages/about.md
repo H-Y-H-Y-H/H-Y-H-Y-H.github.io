@@ -17,7 +17,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Submitted </div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arxiv </div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Knolling Bot: Learning Robotic Object Arrangement from Tidy Demonstrations**
