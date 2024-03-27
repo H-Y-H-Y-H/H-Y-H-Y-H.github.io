@@ -17,7 +17,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 @ Robot Learning Workshop</div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 @ Robot Learning Workshop</div><img src='images/knolling2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Knolling bot 2.0: Enhancing Object Organization with Self-supervised Graspability Estimation**
