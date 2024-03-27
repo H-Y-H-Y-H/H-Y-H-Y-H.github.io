@@ -132,4 +132,18 @@ Boyuan Chen, **Yuhang Hu**, Robert Kwiatkowski, Shuran Song, Hod Lipson
 
 🎬[VIDEO](https://www.youtube.com/watch?v=gDtZoU3ayhg)      📄[PAPER](https://arxiv.org/pdf/2105.05145.pdf)
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Nanotechnology</div><img src='images/nature_nano.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multiplexed reverse-transcriptase quantitative polymerase chain reaction using plasmonic nanoparticles for point-of-care COVID-19 diagnosis**
+
+Quantitative polymerase chain reaction (qPCR) offers the capabilities of real-time monitoring of amplified products, fast detection, and quantitation of infectious units, but poses technical hurdles for point-of-care miniaturization compared with end-point polymerase chain reaction. Here we demonstrate plasmonic thermocycling, in which rapid heating of the solution is achieved via infrared excitation of nanoparticles, successfully performing reverse-transcriptase qPCR (RT-qPCR) in a reaction vessel containing polymerase chain reaction chemistry, fluorescent probes and plasmonic nanoparticles. The method could rapidly detect SARS-CoV-2 RNA from human saliva and nasal specimens with 100% sensitivity and 100% specificity, as well as two distinct SARS-CoV-2 variants.
+
+Nicole R Blumenfeld, Michael Anne E Bolene, Martin Jaspan, Abigail G Ayers, Sabin Zarrandikoetxea, Juliet Freudman, Nikhil Shah, Angela M Tolwani, **Yuhang Hu**, Terry L Chern, James Rogot, Vira Behnam, Aditya Sekhar, Xinyi Liu, Bulent Onalir, Robert Kasumi, Abdoulaye Sanogo, Kelia Human, Kasey Murakami, Goutham S Totapally, Mark Fasciano, Samuel K Sia
+
+📄[PAPER](https://www.nature.com/articles/s41565-022-01175-4)
+
 
