@@ -33,6 +33,7 @@ It's a game-changer for household robotics! 🏠🦾 What do you think? Would yo
 
 📄[PAPER](https://arxiv.org/pdf/2310.04566.pdf)
 
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 @ Robot Learning Workshop</div><img src='images/knolling2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
