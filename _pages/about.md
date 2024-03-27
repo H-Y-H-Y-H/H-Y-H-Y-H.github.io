@@ -24,7 +24,7 @@ redirect_from:
 
 🤖 Attention busy people! Imagine you are very busy and don't have time to tell the robot where everything should be placed!🧹 So, don't you think robots need to understand tidiness? 🤔
 
-This paper📑 shows how robots can learn the concept of ["knolling"](https://knolling.org/) from tidy demonstrations, allowing them to automatically organize your table in a neat and efficient way. 🧹✨
+This paper📑 shows how robots can learn the concept of ["knolling"](https://medium.com/@Lyst/your-favorite-insta-aesthetic-has-an-unexpected-history-a929e078d4ea) from tidy demonstrations, allowing them to automatically organize your table in a neat and efficient way. 🧹✨
 
 
 **Yuhang Hu**, Zhizhuo Zhang, Xinyue Zhu, Ruibo Liu, Philippe Wyder, Hod Lipson 
