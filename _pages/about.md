@@ -37,12 +37,40 @@ This paper📑 shows how robots can learn the concept of ["knolling"](https://me
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 @ Robot Learning Workshop</div><img src='images/knolling2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Knolling bot 2.0: Enhancing Object Organization with Self-supervised Graspability Estimation**
+**Enhancing Object Organization with Self-supervised Graspability Estimation**
 
 A robotic system that integrates visual perception, a self-supervised graspability estimation model, knolling models, and robot arm controllers to efficiently organize an arbitrary number of objects on a table, even when they are closely clustered or stacked.
 
 **Yuhang Hu**, Zhizhuo Zhang, Hod Lipson 
 
 🎬[VIDEO](https://www.youtube.com/watch?v=_pskiKonX38&t=12s)      📄[PAPER](https://arxiv.org/pdf/2310.19226.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/eva.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Smile like you mean it: Driving animatronic robotic face with learned models**
+
+A physical humanoid face robot: Eva 2.0 with soft skin ➕ A vision-based self-supervised learning framework for facial mimicry.
+
+Boyuan Chen, **Yuhang Hu**, Lianfeng Li, Sara Cummings, Hod Lipson
+
+🎬[VIDEO](https://youtu.be/1vBLI-q04kM?si=gDofkitYstuisSRh)      📄[PAPER](https://arxiv.org/pdf/2105.12724.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/hideandseek.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Visual perspective taking for opponent behavior modeling**
+
+Humans learn at a young age to infer what others see and cannot see from a different point-of-view, and learn to predict others’ plans and behaviors. These abilities have been mostly lacking in robots, sometimes making them appear awkward and socially inept. Here we propose an end-to-end long-term visual prediction framework for robots to begin to acquire both these critical cognitive skills, known as Visual Perspective Taking (VPT) and Theory of Behavior (TOB). 
+
+Boyuan Chen, **Yuhang Hu**, Robert Kwiatkowski, Shuran Song, Hod Lipson
+
+🎬[VIDEO](https://www.youtube.com/watch?v=gDtZoU3ayhg)      📄[PAPER](https://arxiv.org/pdf/2105.05145.pdf)
 
 
