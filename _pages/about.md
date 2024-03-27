@@ -27,7 +27,7 @@ Don't you think robots need to understand tidiness? 🤔 Imagine never having to
 This paper shows how robots can learn the concept of "knolling" from tidy demonstration, allowing them to automatically organize your table in a neat and efficient way. 📚🤖
 
 It's a game-changer for household robotics! 🏠🦾 What do you think? Would you trust a robot to tidy up your space based on its understanding of tidiness? 🤔💭
-**Yuhang Hu**, Zhizhuo Zhang, Hod Lipson 
+**Yuhang Hu**, Zhizhuo Zhang, Xinyue Zhu, Ruibo Liu, Philippe Wyder, Hod Lipson 
 
 🎬[VIDEO](https://www.youtube.com/watch?v=_pskiKonX38&t=12s)
 
