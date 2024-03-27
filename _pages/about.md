@@ -13,7 +13,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Paper accepted: Science Robotics (March. 2024). 
+- *2024.02*: &nbsp;🎉🎉 Paper accepted: Science Robotics (Release on March. 27, 2024). 
 
 # 📝 Publications 
 
