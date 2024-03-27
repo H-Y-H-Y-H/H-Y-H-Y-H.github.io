@@ -22,9 +22,9 @@ redirect_from:
   
 **Knolling Bot: Learning Robotic Object Arrangement from Tidy Demonstrations**
 
-Don't you think robots need to understand tidiness? 🤔 Imagine never having to specify where each object goes when cleaning up! 🧹
+🤖 Attention busy people! Imagine you are very busy and don't have time to tell the robot where everything should be placed!🧹 So, don't you think robots need to understand tidiness? 🤔
 
-This paper shows how robots can learn the concept of "knolling" from tidy demonstration, allowing them to automatically organize your table in a neat and efficient way. 📚🤖
+This paper📑 shows how robots can learn the concept of ["knolling"]{https://knolling.org/} from tidy demonstrations, allowing them to automatically organize your table in a neat and efficient way. 🧹✨
 
 It's a game-changer for household robotics! 🏠🦾 What do you think? Would you trust a robot to tidy up your space based on its understanding of tidiness? 🤔💭
 **Yuhang Hu**, Zhizhuo Zhang, Xinyue Zhu, Ruibo Liu, Philippe Wyder, Hod Lipson 
