@@ -17,11 +17,13 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 @ Robot Learning Workshop</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 @ Robot Learning Workshop</div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Knolling bot 2.0: Enhancing Object Organization with Self-supervised Graspability Estimation](https://arxiv.org/pdf/2310.19226.pdf)
+  
+**Knolling bot 2.0: Enhancing Object Organization with Self-supervised Graspability Estimation**
 
 **Yuhang Hu**, Zhizhuo Zhang, Hod Lipson 
 
+[VIDEO](https://www.youtube.com/watch?v=_pskiKonX38&t=12s)
+[PAPER](https://arxiv.org/pdf/2310.19226.pdf)
 
