@@ -17,6 +17,22 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Robotics </div><img src='images/co-exp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Human-robot facial coexpression**
+
+Humanoid robots are capable of mimicking human expressions by perceiving human emotions and responding after the human has finished their expression. However, a delayed smile can feel artificial and disingenuous compared with a smile occurring simultaneously with a companion’s smile. We trained our anthropomorphic facial robot named Emo to display an anticipatory expression to match its human companion. Emo is equipped with 26 motors and flexible silicone skin to provide precise control over its facial expressions. The robot was trained with a video dataset of humans making expressions. By observing subtle changes in a human face, the robot could predict an approaching smile 839 milliseconds before the human smiled and adjust its face to smile simultaneously.
+
+
+**Yuhang Hu**, Boyuan Chen, Jiong Lin, Yunzhe Wang, Yingke Wang, Cameron Mehlman, Hod Lipson 
+
+🎬[VIDEO](https://www.youtube.com/watch?v=pWTTzR_wXuQ)      📄[PAPER](https://www.science.org/doi/10.1126/scirobotics.adi4724)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arxiv </div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
