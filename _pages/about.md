@@ -34,16 +34,39 @@ This paper📑 shows how robots can learn the concept of ["knolling"](https://me
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2021</div><img src='images/hideandseek.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/ego.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Egocentric Visual Self-Modeling for Autonomous Robot Dynamics Prediction and Adaptation**
 
-Humans learn at a young age to infer what others see and cannot see from a different point-of-view, and learn to predict others’ plans and behaviors. These abilities have been mostly lacking in robots, sometimes making them appear awkward and socially inept. Here we propose an end-to-end long-term visual prediction framework for robots to begin to acquire both these critical cognitive skills, known as Visual Perspective Taking (VPT) and Theory of Behavior (TOB). 
+We developed an approach that allows robots to learn their own dynamics using only a first-person camera view, without any prior knowledge! 🎥💡
 
-Boyuan Chen, **Yuhang Hu**, Robert Kwiatkowski, Shuran Song, Hod Lipson
+🦿 Tested on a 12-DoF robot, the self-supervised model showcased the capabilities of basic locomotion tasks.
+
+🔧 The robot can detect damage and adapt its behavior autonomously. Resilience! 💪
+
+🌍 The model proved its versatility by working across different robot configurations!
+
+🔮 This egocentric visual self-model could be the key to unlocking a new era of autonomous, adaptable, and resilient robots.
+
+ **Yuhang Hu**, Boyuan Chen, Hod Lipson
 
 🎬[VIDEO](https://youtu.be/xOv4nO4WWQQ)      📄[PAPER](https://arxiv.org/pdf/2207.03386.pdf)
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/meta-sm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reconfigurable Robot Identification from Motion Data**
+
+Can a robot autonomously understand and adapt to its physical form and functionalities through interaction with its environment? This question underscores the transition towards developing self-modeling robots without reliance on external sensory or pre-programmed knowledge about their structure. Here, we propose a meta- self-modeling that can deduce robot morphology through proprioception-the robot’s internal sense of its body’s position and movement. Our study introduces a 12-DoF reconfigurable legged robot, accompanied by a diverse dataset of 200k unique configurations, to systematically investigate the relationship between robotic motion and robot morphology.
+
+**Yuhang Hu**, Yunzhe Wang, Ruibo Liu, Zhou Shen, Hod Lipson
+
+🎬[VIDEO](https://youtu.be/WSaLwlacuy0?si=UalBN0N0Rx-N5w5l)      📄[PAPER](https://arxiv.org/pdf/2403.10496.pdf)
 
 </div>
 </div>
