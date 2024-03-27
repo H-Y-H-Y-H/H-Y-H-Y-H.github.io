@@ -17,7 +17,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Robotics </div><img src='images/co-exp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Robotics </div><img src='images/emo_coexp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **Human-robot facial coexpression**
