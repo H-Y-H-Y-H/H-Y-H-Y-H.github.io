@@ -11,12 +11,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 # 🔥 News
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">New York Times</div><img src='images/new_york_times.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The New York Times</div><img src='images/new_york_times.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 **‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word.**
+
+ 📄[The New York Times](https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.html)
+ 
 </div>
 </div>
 
