@@ -146,6 +146,13 @@ Nicole R Blumenfeld, Michael Anne E Bolene, Martin Jaspan, Abigail G Ayers, Sabi
 
 📄[PAPER](https://www.nature.com/articles/s41565-022-01175-4)
 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project in 2020</div><img src='images/bipedal.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Mini Bidedal Robot**
 
 Design a legged robot starting from scratch, including CAD, electronics, embedding system, and machine learning.
@@ -157,6 +164,5 @@ Design a legged robot starting from scratch, including CAD, electronics, embeddi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project in 2020</div><img src='images/bipedal.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
