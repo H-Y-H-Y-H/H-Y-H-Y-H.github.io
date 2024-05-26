@@ -38,10 +38,24 @@ Humanoid robots are capable of mimicking human expressions by perceiving human e
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project in 2020</div><img src='images/bipedal.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mini Bidedal Robot**
+
+Design a legged robot starting from scratch, including CAD, electronics, embedding system, and machine learning.
+
+**Yuhang Hu**
+
+🎬[VIDEO](https://www.youtube.com/watch?v=Y0fBdpLf9ZI&t=4s)    
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arxiv </div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
 **Knolling Bot: Learning Robotic Object Arrangement from Tidy Demonstrations**
 
 🤖 Attention busy people! Imagine you are very busy and don't have time to tell the robot where everything should be placed!🧹 So, don't you think robots need to understand tidiness? 🤔
@@ -150,19 +164,6 @@ Nicole R Blumenfeld, Michael Anne E Bolene, Martin Jaspan, Abigail G Ayers, Sabi
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project in 2020</div><img src='images/bipedal.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Mini Bidedal Robot**
-
-Design a legged robot starting from scratch, including CAD, electronics, embedding system, and machine learning.
-
-**Yuhang Hu**
-
-🎬[VIDEO](https://www.youtube.com/watch?v=Y0fBdpLf9ZI&t=4s)    
-
-</div>
-</div>
 
 
 
