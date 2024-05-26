@@ -43,7 +43,7 @@ Humanoid robots are capable of mimicking human expressions by perceiving human e
 
 **Mini Bidedal Robot**
 
-Design a legged robot starting from scratch, including CAD, electronics, embedding system, and machine learning.
+Design a legged robot starting from scratch, including CAD, electronics, embedding system, and deep reinforcement learning.
 
 **Yuhang Hu**
 
