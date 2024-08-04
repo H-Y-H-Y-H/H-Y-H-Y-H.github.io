@@ -53,8 +53,23 @@ Design a legged robot starting from scratch, including CAD, electronics, embeddi
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2024</div><img src='images/meta-sm.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reconfigurable Robot Identification from Motion Data**
+
+Can a robot autonomously understand and adapt to its physical form and functionalities through interaction with its environment? This question underscores the transition towards developing self-modeling robots without reliance on external sensory or pre-programmed knowledge about their structure. Here, we propose a meta- self-modeling that can deduce robot morphology through proprioception-the robot’s internal sense of its body’s position and movement. Our study introduces a 12-DoF reconfigurable legged robot, accompanied by a diverse dataset of 200k unique configurations, to systematically investigate the relationship between robotic motion and robot morphology.
+
+**Yuhang Hu**, Yunzhe Wang, Ruibo Liu, Zhou Shen, Hod Lipson
+
+🎬[VIDEO](https://youtu.be/WSaLwlacuy0?si=UalBN0N0Rx-N5w5l)      📄[PAPER](https://arxiv.org/pdf/2403.10496.pdf)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arxiv </div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 **Knolling Bot: Learning Robotic Object Arrangement from Tidy Demonstrations**
 
@@ -72,6 +87,7 @@ This paper📑 shows how robots can learn the concept of ["knolling"](https://me
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/ego.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 **Egocentric Visual Self-Modeling for Autonomous Robot Dynamics Prediction and Adaptation**
 
@@ -93,19 +109,7 @@ We developed an approach that allows robots to learn their own dynamics using on
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/meta-sm.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Reconfigurable Robot Identification from Motion Data**
-
-Can a robot autonomously understand and adapt to its physical form and functionalities through interaction with its environment? This question underscores the transition towards developing self-modeling robots without reliance on external sensory or pre-programmed knowledge about their structure. Here, we propose a meta- self-modeling that can deduce robot morphology through proprioception-the robot’s internal sense of its body’s position and movement. Our study introduces a 12-DoF reconfigurable legged robot, accompanied by a diverse dataset of 200k unique configurations, to systematically investigate the relationship between robotic motion and robot morphology.
-
-**Yuhang Hu**, Yunzhe Wang, Ruibo Liu, Zhou Shen, Hod Lipson
-
-🎬[VIDEO](https://youtu.be/WSaLwlacuy0?si=UalBN0N0Rx-N5w5l)      📄[PAPER](https://arxiv.org/pdf/2403.10496.pdf)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 @ Robot Learning Workshop</div><img src='images/knolling2.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
