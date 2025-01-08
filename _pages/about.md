@@ -11,6 +11,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Yuhang Hu:
+I am a PhD student at the Creative Machines Lab at Columbia University, studying under Professor Hod Lipson. My research focuses on robotics and artificial intelligence, particularly in the development of humanoid robots, self-modeling robots, and robot self-awareness. In 2023, I created Emo, a face robot that can make dynamic human-like expressions through soft-skin modeling and self-supervised learning.
+
+In addition, I have developed a self-supervised learning framework that enables large models to identify robot configurations, egocentric visual self-models to control legged robots, and robots to understand how to tidy up messy environments by comprehending the concept of tidiness. My work has been featured in prominent publications, including Science Robotics, highlighting my contributions to the field of robotics and AI.
+
+My broader research ambition is to enable robots to become lifelong learning machines through self-supervision. This vision aims to empower robots to adapt quickly to new environments, transfer learned skills across different robotic platforms, and continually acquire new abilities—similar to how humans learn and evolve.
+
 # 🔥 News
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The New York Times</div><img src='images/new_york_times.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
