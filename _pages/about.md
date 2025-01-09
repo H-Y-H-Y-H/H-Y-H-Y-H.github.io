@@ -11,7 +11,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Yuhang Hu:
 # Yuhang Hu 🌟
 
 👨‍🎓 **PhD Student** at the **Creative Machines Lab** at **Columbia University**, under the mentorship of **Professor Hod Lipson**.
