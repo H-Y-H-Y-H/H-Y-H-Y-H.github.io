@@ -12,11 +12,39 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Yuhang Hu:
-I am a PhD student at the Creative Machines Lab at Columbia University, studying under Professor Hod Lipson. My research focuses on robotics and artificial intelligence, particularly in the development of humanoid robots, self-modeling robots, and robot self-awareness. In 2023, I created Emo, a face robot that can make dynamic human-like expressions through soft-skin modeling and self-supervised learning.
+# Yuhang Hu 🌟
 
-In addition, I have developed a self-supervised learning framework that enables large models to identify robot configurations, egocentric visual self-models to control legged robots, and robots to understand how to tidy up messy environments by comprehending the concept of tidiness. My work has been featured in prominent publications, including Science Robotics, highlighting my contributions to the field of robotics and AI.
+👨‍🎓 **PhD Student** at the **Creative Machines Lab** at **Columbia University**, under the mentorship of **Professor Hod Lipson**.
 
-My broader research ambition is to enable robots to become lifelong learning machines through self-supervision. This vision aims to empower robots to adapt quickly to new environments, transfer learned skills across different robotic platforms, and continually acquire new abilities—similar to how humans learn and evolve.
+## 🔬 Research Focus  
+My research revolves around **robotics and artificial intelligence**, with key interests in:  
+- 🤖 **Humanoid robots (legged robot, face robot and robot arm)**  
+- 🔄 **Self-modeling robots (AI algorithm)**  
+- 🧠 **Robot self-awareness (AI algorithm)**  
+
+---
+
+## 🚀 Research Highlights  
+✨ Here are some of my key projects and contributions:  
+
+- **Facial Robots** 🎭  
+  Developed facial robots capable of **dynamic human-like expressions** through **soft-skin modeling** and **self-supervised learning**.  
+
+- **Self-Supervised Learning Framework** 🧑‍💻  
+  Designed a system that enables large models to:  
+  - 🛠️ **Identify robot configurations**  
+  - 👁️ **Control legged robots** using **egocentric visual self-models**  
+  - 🧹 **Understand and tidy messy environments** by grasping the concept of **tidiness**  
+
+---
+
+## 🌍 Vision  
+My long-term ambition is to enable robots to become **lifelong learning machines** through **self-supervision**. This vision aims to empower robots to:  
+- ⚙️ **Adapt quickly** to new environments  
+- 🔄 **Transfer skills** across different robotic platforms  
+- 📚 **Continuously acquire** new abilities—just like humans  
+
+
 
 # 🔥 News
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The New York Times</div><img src='images/new_york_times.png' alt="sym" width="100%"></div></div>
