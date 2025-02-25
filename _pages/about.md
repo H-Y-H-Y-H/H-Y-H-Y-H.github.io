@@ -66,7 +66,7 @@ My long-term ambition is to enable robots to become **lifelong learning machines
 Robots now use raw video to build kinematic self-awareness, similar to how humans learn to dance by watching their mirror reflection. Our goal is a robot that understands its own body, adapts to damage, and learns new skills without constant human programming.
 In the new study, we developed a way for robots to autonomously model their 3D shapes using a single regular 2D camera. This breakthrough was driven by three brain-mimicking AI systems known as deep neural networks. These inferred 3D motion from 2D video, enabling the robot to understand and adapt to its movements. The new system could also identify alterations to the bodies of the robots, such as a bend in an arm, and help them adjust their motions to recover from this simulated damage.
 
-**Yuhang Hu**, Boyuan Chen, Jiong Lin, Yunzhe Wang, Yingke Wang, Cameron Mehlman, Hod Lipson 
+**Yuhang Hu**, Jiong Lin, Hod Lipson 
 
 🎬[VIDEO](https://www.engineering.columbia.edu/about/news/robots-learn-how-move-watching-themselves-0)      📄[PAPER]([https://www.science.org/doi/10.1126/scirobotics.adi4724](https://www.nature.com/articles/s42256-025-01006-w))
 
