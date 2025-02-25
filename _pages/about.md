@@ -68,7 +68,7 @@ In the new study, we developed a way for robots to autonomously model their 3D s
 
 **Yuhang Hu**, Jiong Lin, Hod Lipson 
 
-🎬[VIDEO](https://www.engineering.columbia.edu/about/news/robots-learn-how-move-watching-themselves-0)      📄[PAPER]([https://www.science.org/doi/10.1126/scirobotics.adi4724](https://www.nature.com/articles/s42256-025-01006-w))
+🆕[Coverage](https://www.engineering.columbia.edu/about/news/robots-learn-how-move-watching-themselves-0)      📄[PAPER]([https://www.science.org/doi/10.1126/scirobotics.adi4724](https://www.nature.com/articles/s42256-025-01006-w))
 
 </div>
 </div>
