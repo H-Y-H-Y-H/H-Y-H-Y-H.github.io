@@ -19,7 +19,7 @@ redirect_from:
 My research revolves around **robotics and artificial intelligence**, with key interests in:  
 - 🤖 **Humanoid robots (legged robot, face robot and robot arm)**  
 - 🔄 **Self-modeling robots (AI algorithm)**  
-- 🧠 **Robot self-awareness (AI algorithm)**  
+- 🧠 **Vision-Based Robotic Control** – using cameras (often egocentric) to see and learn.
 
 ---
 
