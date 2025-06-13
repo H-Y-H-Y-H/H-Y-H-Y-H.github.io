@@ -134,7 +134,7 @@ This paper📑 shows how robots can learn the concept of ["knolling"](https://me
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/ego.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Nature | npj Robotics </div><img src='images/ego.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
