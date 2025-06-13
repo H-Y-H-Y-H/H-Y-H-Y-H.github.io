@@ -87,6 +87,32 @@ Humanoid robots are capable of mimicking human expressions by perceiving human e
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> npj Robotics </div><img src='images/ego.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Egocentric Visual Self-Modeling for Autonomous Robot Dynamics Prediction and Adaptation**
+
+We developed an approach that allows robots to learn their own dynamics using only a first-person camera view, without any prior knowledge! 🎥💡
+
+🦿 Tested on a 12-DoF robot, the self-supervised model showcased the capabilities of basic locomotion tasks.
+
+🔧 The robot can detect damage and adapt its behavior autonomously. Resilience! 💪
+
+🌍 The model proved its versatility by working across different robot configurations!
+
+🔮 This egocentric visual self-model could be the key to unlocking a new era of autonomous, adaptable, and resilient robots.
+
+ **Yuhang Hu**, Boyuan Chen, Hod Lipson
+
+🎬[VIDEO](https://youtu.be/xOv4nO4WWQQ)      📄[PAPER](https://doi.org/10.1038/s44182-025-00031-6)
+
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project in 2020</div><img src='images/bipedal.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -134,29 +160,6 @@ This paper📑 shows how robots can learn the concept of ["knolling"](https://me
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Nature | npj Robotics </div><img src='images/ego.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**Egocentric Visual Self-Modeling for Autonomous Robot Dynamics Prediction and Adaptation**
-
-We developed an approach that allows robots to learn their own dynamics using only a first-person camera view, without any prior knowledge! 🎥💡
-
-🦿 Tested on a 12-DoF robot, the self-supervised model showcased the capabilities of basic locomotion tasks.
-
-🔧 The robot can detect damage and adapt its behavior autonomously. Resilience! 💪
-
-🌍 The model proved its versatility by working across different robot configurations!
-
-🔮 This egocentric visual self-model could be the key to unlocking a new era of autonomous, adaptable, and resilient robots.
-
- **Yuhang Hu**, Boyuan Chen, Hod Lipson
-
-🎬[VIDEO](https://youtu.be/xOv4nO4WWQQ)      📄[PAPER](https://arxiv.org/pdf/2207.03386.pdf)
-
-
-</div>
-</div>
 
 
 
