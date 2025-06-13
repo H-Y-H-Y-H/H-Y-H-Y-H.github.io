@@ -11,14 +11,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Yuhang Hu 🌟
+# Yuhang Hu (胡宇航)
 
-👨‍🎓 **PhD Student** at the **Creative Machines Lab** at **Columbia University**, under the mentorship of **Professor Hod Lipson**.
+👨‍🎓 PhD, Creative Machines Lab, Columbia University (advised by Prof. Hod Lipson)
+👨‍💼 Founder & CEO, AheadForm Inc. (首形科技)
 
 ## 🔬 Research Focus  
 My research revolves around **robotics and artificial intelligence**, with key interests in:  
 - 🤖 **Humanoid robots (legged robot, face robot and robot arm)**  
-- 🔄 **Self-modeling robots (AI algorithm)**  
+- 🔄 **Self-supervised Learning and Self-modeling robots**  
 - 🧠 **Vision-Based Robotic Control** – enabling robots to perceive their environment and their own body through cameras (often egocentric), allowing them to learn and adapt in a self-supervised manner.
 
 ---
