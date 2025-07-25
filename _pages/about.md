@@ -14,7 +14,8 @@ redirect_from:
 # Yuhang Hu (胡宇航)
 
 👨‍🎓 PhD, Creative Machines Lab, Columbia University (advised by Prof. Hod Lipson)
-👨‍💼 Founder & CEO, AheadForm Inc. (首形科技)
+
+👨‍💼 Founder & CEO/CTO, [AheadForm Inc. (首形科技)](https://www.aheadform.com)
 
 ## 🔬 Research Focus  
 My research revolves around **robotics and artificial intelligence**, with key interests in:  
