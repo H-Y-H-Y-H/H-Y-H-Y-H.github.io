@@ -60,6 +60,26 @@ My long-term ambition is to enable robots to become **lifelong learning machines
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> NeurIPS 2025 (Creative AI Track) </div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Knolling Bot: Teaching Robots the Human Notion of Tidiness**
+
+🤖 Attention busy people! Imagine you are very busy and don't have time to tell the robot where everything should be placed!🧹 So, don't you think robots need to understand tidiness? 🤔
+
+This paper📑 shows how robots can learn the concept of ["knolling"](https://medium.com/@Lyst/your-favorite-insta-aesthetic-has-an-unexpected-history-a929e078d4ea) from tidy demonstrations, allowing them to automatically organize your table in a neat and efficient way. 🧹✨
+
+
+**Yuhang Hu**, Judah Goldfeder, Zhizhuo Zhang, Xinyue Zhu, Ruibo Liu, Philippe Wyder, Hod Lipson 
+
+🎬[VIDEO](https://www.youtube.com/watch?v=QcDtNfAYQXk)      📄[PAPER](https://arxiv.org/pdf/2310.04566.pdf)
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence </div><img src='images/selfsimrobots.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -140,24 +160,6 @@ Can a robot autonomously understand and adapt to its physical form and functiona
 **Yuhang Hu**, Yunzhe Wang, Ruibo Liu, Zhou Shen, Hod Lipson
 
 🎬[VIDEO](https://youtu.be/WSaLwlacuy0?si=UalBN0N0Rx-N5w5l)      📄[PAPER](https://arxiv.org/pdf/2403.10496.pdf)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> arxiv </div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-**Knolling Bot: Learning Robotic Object Arrangement from Tidy Demonstrations**
-
-🤖 Attention busy people! Imagine you are very busy and don't have time to tell the robot where everything should be placed!🧹 So, don't you think robots need to understand tidiness? 🤔
-
-This paper📑 shows how robots can learn the concept of ["knolling"](https://medium.com/@Lyst/your-favorite-insta-aesthetic-has-an-unexpected-history-a929e078d4ea) from tidy demonstrations, allowing them to automatically organize your table in a neat and efficient way. 🧹✨
-
-
-**Yuhang Hu**, Judah Goldfeder, Zhizhuo Zhang, Xinyue Zhu, Ruibo Liu, Philippe Wyder, Hod Lipson 
-
-🎬[VIDEO](https://www.youtube.com/watch?v=QcDtNfAYQXk)      📄[PAPER](https://arxiv.org/pdf/2310.04566.pdf)
 
 </div>
 </div>
