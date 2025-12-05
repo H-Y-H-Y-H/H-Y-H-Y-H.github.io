@@ -155,9 +155,9 @@ Can a robot autonomously understand and adapt to its physical form and functiona
 This paper📑 shows how robots can learn the concept of ["knolling"](https://medium.com/@Lyst/your-favorite-insta-aesthetic-has-an-unexpected-history-a929e078d4ea) from tidy demonstrations, allowing them to automatically organize your table in a neat and efficient way. 🧹✨
 
 
-**Yuhang Hu**, Zhizhuo Zhang, Xinyue Zhu, Ruibo Liu, Philippe Wyder, Hod Lipson 
+**Yuhang Hu**, Judah Goldfeder, Zhizhuo Zhang, Xinyue Zhu, Ruibo Liu, Philippe Wyder, Hod Lipson 
 
-🎬[VIDEO](https://youtu.be/jCxykR4iP0I)      📄[PAPER](https://arxiv.org/pdf/2310.04566.pdf)
+🎬[VIDEO](https://www.youtube.com/watch?v=QcDtNfAYQXk)      📄[PAPER](https://arxiv.org/pdf/2310.04566.pdf)
 
 </div>
 </div>
