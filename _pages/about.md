@@ -48,6 +48,22 @@ My long-term ambition is to enable robots to become **lifelong learning machines
 
 
 # 🔥 News
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Robotics</div><img src='images/scicover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Science Robotics Cover**
+
+Humanoid Robots. During verbal communication, humans easily perceive when speech does not match lip motion, leading to an uncanny feeling toward humanoid robots with simplistic lip movements. Hu et al. designed a face robot covered in a soft silicone skin that achieves high–degree-of-freedom lip actuation, enabling distinct lip shapes that cover 24 consonants and 16 vowels. By combining a self-supervised learning pipeline with a facial action transformer, the robot successfully matched motor commands with audio input for lip-audio synchronization. This month’s cover is an image of the face robot mid-speech with parted lips.
+
+
+
+ 📄[ONLINE COVER](https://www.science.org/toc/scirobotics/11/110)
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The New York Times</div><img src='images/new_york_times.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -88,7 +104,7 @@ Delin Zeng,
 Boyuan Chen,
 Hod Lipson
 
-🎬[STORY](https://www.engineering.columbia.edu/about/news/robot-learns-lip-sync)      📄[PAPER](https://www.science.org/doi/10.1126/scirobotics.adx3017)
+🆕[STORY](https://www.engineering.columbia.edu/about/news/robot-learns-lip-sync)      📄[PAPER](https://www.science.org/doi/10.1126/scirobotics.adx3017)
 
 </div>
 </div>
