@@ -54,11 +54,45 @@ My long-term ambition is to enable robots to become **lifelong learning machines
 **‘Consciousness’ in Robots Was Once Taboo. Now It’s the Last Word.**
 
  📄[The New York Times](https://www.nytimes.com/2023/01/06/science/robots-artificial-intelligence-consciousness.html)
+
  
 </div>
 </div>
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Science Robotics </div><img src='images/science_robotics_cover.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Learning realistic lip motions for humanoid face robots**
+
+Getting lip motion *right* is one of the hardest problems in face robots. Humans are extremely sensitive to tiny errors in mouth timing and shape, which makes rule-based phoneme–viseme systems brittle and unnatural. In this work, we treat lip motion as a **physically constrained, high-dimensional motor behavior**, and approach it from a self-supervised learning perspective.
+
+The robot first **learns itself** by watching its own face, building a self-model of what motions are actually executable on its hardware. It then **learns from humans**, transferring cross-lingual speech–lip regularities into its own motor space. A Facial Action Transformer maps latent facial representations to coordinated motor commands. The result: stable, natural lip synchronization on a real humanoid face robot across **11 languages**—without hand-crafted rules.
+
+
+**Yuhang Hu**,
+Jiong Lin,
+Judah Allen Goldfeder,
+Philippe M. Wyder,
+Yifeng Cao,
+Steven Tian,
+Yunzhe Wang,
+Jingran Wang,
+Mengmeng Wang,
+Jie Zeng,
+Cameron Mehlman,
+Yingke Wang,
+Delin Zeng,
+Boyuan Chen,
+Hod Lipson
+
+🎬[STORY](https://www.engineering.columbia.edu/about/news/robot-learns-lip-sync)      📄[PAPER](https://www.science.org/doi/10.1126/scirobotics.adx3017)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> NeurIPS 2025 (Creative AI Track) </div><img src='images/knolling.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,6 +111,7 @@ This paper📑 shows how robots can learn the concept of ["knolling"](https://me
 
 </div>
 </div>
+
 
 
 
