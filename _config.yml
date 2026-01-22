@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuhang Hu"
-description              : "Ph.D. student at Columbia University (Robotics, Machine Learning)"
+description              : "Ph.D. at Columbia University (Robotics, Machine Learning)"
 repository               : "H-Y-H-Y-H.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Yuhang Hu"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Columbia University"
-  location         : "New York City"
-  employer         :
+  location         : SH/BJ/HZ/SZ/NY
+  employer         : AheadForm
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jaKOFAgAAAAJ&hl=en"
   email            : "yuhang.hu@columbia.edu.com"
